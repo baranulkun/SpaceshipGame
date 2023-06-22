@@ -10,4 +10,4 @@ birlikte, carpışma durumunda ses çıkarması sağlanmıştır. Ayrıca uzay g
 
 ![20230623011540 (online-video-cutter com)](https://github.com/baranulkun/SpaceshipGame/assets/74157174/0a5be460-1564-4f06-96d5-0345834e7b8b)
 
-Projenin nasıl çalıştığını görmek için: "https://youtu.be/ZxIlpQIKZoE"
+Projenin nasıl çalıştığını görmek için: "https://youtu.be/cSqvMMhTqQM"
